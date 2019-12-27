@@ -1,4 +1,4 @@
-#Thu Dec 26 16:46:40 UTC 2019
+#Thu Dec 26 16:53:13 UTC 2019
 base.0=/workspace/Gitpod-Android/android_projects/$$/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
